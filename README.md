@@ -1,1 +1,2 @@
 # Python-Automation-File-destination-changer
+This program, programmed in python, is made to automate a small, yet annoying task, that everyone goes through if they want to order files, and place them in a specific place. Personally, I always want anything I download to go from the downloads directory to the desktop, which is exactly what I've done here. This program basically automatically moves any file downloaded from the internet (that is now in downloads) to the desktop, where I directly move the files as it helps me get organized.
